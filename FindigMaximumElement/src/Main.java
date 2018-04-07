@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String args[]){
 		int[] array = {7,2, 8, 9, -1, 10, 3, 40, -8, -9};
 		
-		//System.out.println(maximum(array));
+		System.out.println(maximum(array));
 	}
 	
 	
